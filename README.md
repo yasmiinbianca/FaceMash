@@ -1,1 +1,1 @@
-# FaceMash
+# mash-2b
